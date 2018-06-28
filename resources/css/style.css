@@ -18,8 +18,18 @@ h3 {
 
 p {
   text-align: center;
+  font-size: 21px;
+  color: gray;
 }
 
 video {
   align-content: center;
+}
+
+image {
+  align-content: center;
+}
+
+.copyright {
+  text-align: left;
 }
