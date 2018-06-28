@@ -1,5 +1,6 @@
 html {
   font-family: verdana;
+  background-color: black;
 }
 
 h1 {
@@ -9,8 +10,16 @@ h1 {
   text-align: center;
 }
 
-h2 {
+h3 {
   color: aquamarine;
   font-size: 16px;
   text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+video {
+  align-content: center;
 }
